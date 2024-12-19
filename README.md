@@ -1,8 +1,9 @@
 ## *Hi there 👋*
 
-- 🔭 I’m currently working on advanced ML applications and full-stack web solutions.  
-- 🌱 I’m currently learning reinforcement learning and scalable backend systems.  
-- 🤖 I’m passionate about leveraging AI to enhance creative problem-solving.  
+-🔭 I’m actively working on cutting-edge machine learning applications and developing robust full-stack web solutions.
+-🌱 Exploring reinforcement learning and scalable backend systems to create impactful solutions.
+-🤖 Passionate about integrating AI to tackle challenges and innovate creative problem-solving approaches.
+
 
 ## *Tech Stack ⚙️*
 
